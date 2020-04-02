@@ -37,8 +37,9 @@ public class UserDemoTest {
 		Assert.assertEquals(txtSearch, "Admin");
 		
 	
+	
 		
-		
+		//Best Practices:
 		
 		
 		//Best Practices:
