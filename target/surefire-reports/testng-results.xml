@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results skipped="0" failed="0" ignored="0" total="1" passed="1">
+  <reporter-output>
+  </reporter-output>
+  <suite name="Surefire suite" duration-ms="25869" started-at="2020-04-02T16:45:24 IST" finished-at="2020-04-02T16:45:50 IST">
+    <groups>
+    </groups>
+    <test name="Surefire test" duration-ms="25869" started-at="2020-04-02T16:45:24 IST" finished-at="2020-04-02T16:45:50 IST">
+      <class name="testPack.UserDemoTest">
+        <test-method status="PASS" signature="VerifySearch()[pri:0, instance:testPack.UserDemoTest@5bcab519]" name="VerifySearch" duration-ms="25814" started-at="2020-04-02T16:45:24 IST" finished-at="2020-04-02T16:45:50 IST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- VerifySearch -->
+      </class> <!-- testPack.UserDemoTest -->
+    </test> <!-- Surefire test -->
+  </suite> <!-- Surefire suite -->
+</testng-results>
